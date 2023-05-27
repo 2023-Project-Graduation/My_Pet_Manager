@@ -1,0 +1,7 @@
+{
+  "Dog_Breed_List": {
+    "small_breed": ["yorkshire_terrier", "chihuahua", "pomeranian"],
+    "medium_breed": ["samoyed", "beagle", "welsh_corgi"],
+    "large_breed": ["retriever", "great_dane"]
+  }
+}

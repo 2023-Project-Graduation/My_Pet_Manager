@@ -26,4 +26,4 @@ python main.py
 
 ## License
 
-[Apache License](http://www.apache.org/licenses/)
+[MIT License](http://www.apache.org/licenses/)

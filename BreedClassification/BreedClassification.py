@@ -12,8 +12,8 @@ def main():
     )
     print(test_image_paths)
     
-    model = load_model('models/Classification_Model.h5')
-    class_labels = ['retriever','samoyed','yorkshire_terrier']
+    model = load_model('models/Classification_Model.h5',compile=False)
+    class_labels = ["other_dogs",'retriever','samoyed','yorkshire_terrier']
 
     for image_path in test_image_paths:
         test_image = cv2.imread(image_path)

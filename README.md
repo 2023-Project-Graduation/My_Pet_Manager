@@ -19,7 +19,7 @@ conda env create --file environment.yaml
 wget https://github.com/2023-Project-Graduation/My_Pet_Manager.git
 
 # run
-python main.py
+python GUI.py
 
 ```
 
